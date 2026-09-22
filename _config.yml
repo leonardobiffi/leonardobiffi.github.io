@@ -28,8 +28,8 @@ url: "https://leonardobiffi.github.io/"
 github:
   username: leonardobiffi
 
-twitter:
-  username: _leonardobiffi
+linkedin:
+  username: leonardo-biffi
 
 social:
   # Change to your full name.
@@ -41,7 +41,6 @@ social:
     # The first element serves as the copyright owner's link
     - https://github.com/leonardobiffi
     - https://www.linkedin.com/in/leonardo-biffi
-    - https://twitter.com/_leonardobiffi
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
 

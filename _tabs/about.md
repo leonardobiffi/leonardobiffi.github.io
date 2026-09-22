@@ -29,6 +29,5 @@ I share what's worked in production, the mistakes I've made and the tools that s
 ## Find Me Online
 
 - **GitHub**: [@leonardobiffi](https://github.com/leonardobiffi)
-- **LinkedIn**: [Leonardo Biffi](https://www.linkedin.com/in/leonardobiffi)
-- **Twitter**: [@_leonardobiffi](https://twitter.com/_leonardobiffi)
+- **LinkedIn**: [Leonardo Biffi](https://www.linkedin.com/in/leonardo-biffi)
 - **Email**: leonardobiffi@outlook.com
