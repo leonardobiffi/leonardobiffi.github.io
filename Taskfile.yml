@@ -1,0 +1,28 @@
+# yaml-language-server: $schema=https://taskfile.dev/schema.json
+version: '3'
+
+tasks:
+  default:
+    cmds:
+      - task --list
+    silent: true
+
+  install:
+    desc: Install deps
+    cmds:
+      - bundle install
+
+  dev:
+    desc: Run dev site locally
+    cmds:
+      - bundle exec jekyll serve
+
+  build:
+    desc: Build site
+    cmds:
+      - JEKYLL_ENV=production bundle exec jekyll b
+
+  new:
+    desc: Create a new post
+    cmds:
+      - touch "_posts/$(date +%Y-%m-%d)-new.md"
