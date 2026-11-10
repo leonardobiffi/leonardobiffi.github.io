@@ -1,0 +1,9 @@
+{
+  "$schema": "https://opencode.ai/config.json",
+  "skills": {
+    "create-post": {
+      "path": ".opencode/skills/create-post",
+      "entry": "create-post.sh"
+    }
+  }
+}

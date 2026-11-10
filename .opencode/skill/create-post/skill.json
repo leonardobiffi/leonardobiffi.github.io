@@ -1,0 +1,5 @@
+{
+  "name": "create-post",
+  "description": "Creates a new blog post with proper front matter template, date-based filename, and slug generation for the Jekyll + Chirpy site",
+  "version": "1.0.0"
+}
