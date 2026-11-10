@@ -206,10 +206,6 @@ kdelpod() {
 }
 ```
 
-A word of caution on `tfclean`: it also removes `terraform.tfstate*`, so I only run it on scratch directories, never on a workspace with real state.
-
-The split works because kuberc is intentionally narrow. It handles aliases and default flags, and nothing else. Everything that needs `awk`, `xargs`, `jq`, or a loop stays a shell function, which is exactly where it belongs.
-
 Autocompletion works with kuberc aliases too, so pressing Tab after `kubectl kg` will suggest the alias.
 
 ## Turn it off
